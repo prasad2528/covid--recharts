@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.chart-container {
+  background-color: #1c1c2b;
+  padding: 30px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+.coverage-heading {
+  color: #6c757d;
+  padding-left: 30px;
+}

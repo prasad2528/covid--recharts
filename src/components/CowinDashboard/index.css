@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.bg-container {
+  min-height: 100vh;
+  background-color: #161625;
+  display: flex;
+  justify-content: center;
+}
+.card-container {
+  width: 80%;
+  color: #ffffff;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 13px;
+}
+.logo-heading {
+  color: #2cc6c6;
+  font-weight: 700;
+}
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
